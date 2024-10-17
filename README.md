@@ -1,3 +1,3 @@
 ### Hello there.
-### My name is Pedro Almeida.
-### Just a junior dev
+### My name is Pedro;
+## Just a junior dev
